@@ -2,4 +2,4 @@
 
 <p align="center">Estou colocando meus conhecimentos nodejs com shell screipt para automações de terafas em servidor!</p>
 
-![Captura de tela 2024-04-06 103932](https://github.com/gregoriodelucca/Node-Shell/assets/43537647/1f4c19b6-85fd-4306-b926-039b47d2ca2f)
+![olhee](https://github.com/gregoriodelucca/Node-Shell/assets/43537647/3e398eab-8f63-4d28-a9fc-156d4bfd3ecc)
